@@ -1,0 +1,126 @@
+{
+  "compiler": "GNU LilyPond 2.24.4 (running Guile 2.2)",
+  "count": 12,
+  "scores": {
+    "lily-07e08738b8a7": {
+      "files": [
+        {
+          "file": "assets/scores/lily-07e08738b8a7-1.svg",
+          "viewBox": "0.0000 -0.0001 53.2281 10.4254"
+        }
+      ],
+      "source": "content/lily-07e08738b8a7.ly",
+      "sourceHash": "07e08738b8a73d0fcce6b13ac22f763b00303ab5fdbef0f83a0b72ac648e08d2"
+    },
+    "lily-2c90728c9d72": {
+      "files": [
+        {
+          "file": "assets/scores/lily-2c90728c9d72-1.svg",
+          "viewBox": "0.0000 -0.0000 60.0922 8.8405"
+        }
+      ],
+      "source": "content/lily-2c90728c9d72.ly",
+      "sourceHash": "2c90728c9d7204067db8ec2e736ce29fcb50d076aa0a7ed342955e666b640355"
+    },
+    "lily-2f864f7e8f74": {
+      "files": [
+        {
+          "file": "assets/scores/lily-2f864f7e8f74-1.svg",
+          "viewBox": "0.0000 -0.0210 59.2014 8.9255"
+        }
+      ],
+      "source": "content/lily-2f864f7e8f74.ly",
+      "sourceHash": "2f864f7e8f74d9d5baf97a2c8faa10c9fb2e2f3845123a72aa1a6c922464b6db"
+    },
+    "lily-40f9a5c83a34": {
+      "files": [
+        {
+          "file": "assets/scores/lily-40f9a5c83a34-1.svg",
+          "viewBox": "0.0000 -0.0001 49.7899 11.2925"
+        }
+      ],
+      "source": "content/lily-40f9a5c83a34.ly",
+      "sourceHash": "40f9a5c83a34a004962b0c52c11a7b95366b9bb59fd48c4bd9e7d66771178cb9"
+    },
+    "lily-568558dce049": {
+      "files": [
+        {
+          "file": "assets/scores/lily-568558dce049-1.svg",
+          "viewBox": "0.0000 0.0000 57.2324 7.5900"
+        }
+      ],
+      "source": "content/lily-568558dce049.ly",
+      "sourceHash": "568558dce049c05ff38c5a1c1a0e9044911b6791a0f9417a330ae8f9c3727591"
+    },
+    "lily-59a45b16068c": {
+      "files": [
+        {
+          "file": "assets/scores/lily-59a45b16068c-1.svg",
+          "viewBox": "0.0000 -0.0185 87.4053 11.5635"
+        }
+      ],
+      "source": "content/lily-59a45b16068c.ly",
+      "sourceHash": "59a45b16068c2e79cb1ff082c23eea917f30ec329e18bd409fdf6fd9145b5eaa"
+    },
+    "lily-68d27ff4b84b": {
+      "files": [
+        {
+          "file": "assets/scores/lily-68d27ff4b84b-1.svg",
+          "viewBox": "0.0000 -0.0000 81.9192 8.1000"
+        }
+      ],
+      "source": "content/lily-68d27ff4b84b.ly",
+      "sourceHash": "68d27ff4b84b9f001861148ba694abfd29a5cb6c5bdd20450fa338fcb138170b"
+    },
+    "lily-7070197c7077": {
+      "files": [
+        {
+          "file": "assets/scores/lily-7070197c7077-1.svg",
+          "viewBox": "0.0000 -0.0000 41.4222 11.7836"
+        }
+      ],
+      "source": "content/lily-7070197c7077.ly",
+      "sourceHash": "7070197c707738f8765ca23e1a48a172c77c7133b7d00ba1381da50a27bd7245"
+    },
+    "lily-761a029a0f5b": {
+      "files": [
+        {
+          "file": "assets/scores/lily-761a029a0f5b-1.svg",
+          "viewBox": "0.0000 -0.0001 51.1290 10.2616"
+        }
+      ],
+      "source": "content/lily-761a029a0f5b.ly",
+      "sourceHash": "761a029a0f5ba63e16ff1cf6712845e9137bcf13fa4cf6d7bf36b5d0503e4cff"
+    },
+    "lily-99e17a598aa4": {
+      "files": [
+        {
+          "file": "assets/scores/lily-99e17a598aa4-1.svg",
+          "viewBox": "0.0000 0.0000 57.2324 7.5900"
+        }
+      ],
+      "source": "content/lily-99e17a598aa4.ly",
+      "sourceHash": "99e17a598aa422fdff5479fe5ee16b93931d630ba448a2845514fec630d8d08d"
+    },
+    "lily-b1ee423b1952": {
+      "files": [
+        {
+          "file": "assets/scores/lily-b1ee423b1952-1.svg",
+          "viewBox": "0.0000 -0.0210 59.2014 8.9255"
+        }
+      ],
+      "source": "content/lily-b1ee423b1952.ly",
+      "sourceHash": "b1ee423b19520cdb15e50b55af3012a5b0ad1e91df8ca644adb12196bd90a258"
+    },
+    "lily-ef64d127a00e": {
+      "files": [
+        {
+          "file": "assets/scores/lily-ef64d127a00e-1.svg",
+          "viewBox": "0.0000 -0.0000 60.7539 7.6374"
+        }
+      ],
+      "source": "content/lily-ef64d127a00e.ly",
+      "sourceHash": "ef64d127a00ea9a100427cccc2a00469c88ead9d2b0fffc01a143d856eebf0c1"
+    }
+  }
+}

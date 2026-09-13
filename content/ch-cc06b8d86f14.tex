@@ -1,0 +1,128 @@
+  
+\addcontentsline{toc}{chapter}{\twkkai{对话录·其七}}  
+\markboth{\twkkai{对话录·其七}}{}  
+\pagecolor{black}
+\color{white}
+\quad\quad \twkkai{\lettrine[,lraise=0.2,lhang=0.5]{\textbf{猫}}{：终于回来了……诶，这狄利克雷，一大早又去哪了？要不我先跳支舞迎接他，嘿嘿！}
+
+（猫踮起脚，悄悄地又跳起了舞\marginnote{}{\small ♪}。）
+
+\rule{0pt}{5pt}
+
+\noindent\hspace*{7.4cm}\includegraphics[height=11mm]{frontmatter/猫.pdf}
+
+（狄利克雷踏进了大门。）
+
+狄利克雷：你又在胡闹什么！刚送你回来，没想到你又在捣乱！
+
+猫：没有啦，这不是奏出最后一首曲子来欢迎你嘛……这可是大名鼎鼎的韦伯Op.73第三乐章呢！
+
+\clearpage
+\thisblankpage
+\includepdf[
+  pages={1-3},
+  nup=1x3,
+  scale=0.7,
+  pagecommand={
+    \begin{tikzpicture}[remember picture,overlay]
+      \node[align=center]
+      at ($(current page.north west)+(1.5cm,-11.7cm)$)
+      {
+        {\Large ♪}\\[0.8em]
+        \qraudio
+          {weber3_1}
+          {\WeberSound}
+          {https://raw.githubusercontent.com/kelvinlamresearchmath-web/finding-dirichlet-site/master/weber3_1.mp3}
+      };
+    \end{tikzpicture}
+  }
+]{weber3_fixed_v3.pdf}
+
+狄利克雷：刚刚在人间一起和你见了见守门人。你也看到了，他跟我汇报了些东西；所以我现在没有心情跟你闹。
+
+猫：你说说看嘛，汇报了什么——毕竟我在人间是听不懂人话的。或许他所汇报的就能和韦伯这一曲终章产生联系了呢！
+
+狄利克雷：他说他在人间发现了一套理论——已经可以用所谓“类域论”来重新阐释我发现的算术级数定理了……
+
+猫：喵……你好像不兴奋？
+
+狄利克雷：当然。虽然能看着我的符号孩子们长大，我挺高兴；但我隐隐约约感到被威胁了。
+
+猫：哈哈，倒不能这么说——数学总是向前发展的嘛。
+
+守门人：……设 \(K / F\) 是伽罗瓦扩张，且 \(P_{F, \mathfrak{m}}^{+}<H<I_{F}(\mathfrak{m})\)。假设存在某个素理想集合 \(T \subseteq H\)，使得 \(\mathcal{S}_{K / F} \approx T\)。那么
+\[
+\left[\mathcal{I}_{F}(\mathfrak{m}): \mathcal{H}\right] \leq[K: F],
+\]
+并且当 \(\chi \neq \chi_{0}\) 且 \(\chi\) 在 \(H\) 上为平凡时，\(L_{\mathfrak{m}}(1, \chi) \neq 0\)……
+
+猫：哎哟，这不是……？
+
+狄利克雷：还要气我对不对？
+
+猫：没有，真的没有！我在想一些事情呢。
+
+狄利克雷：你最好说的是类比。
+
+猫：是的，就是类比！你也知道，在这里，我们的话题其实也仅限于这些了。实际上，这一乐章的速度标记是\textit{Rondo}呢——你可知道“Rondo”之意吗？
+
+狄利克雷：不知道，也不想知道。至少不是现在；不过你想说就说。
+
+猫：好，那我尽量谨慎点。发现了吗——这首简直就是典型回旋曲式，欢快轻盈的主要主题与一个或多个对比主题交替出现着，呼应着；而重点是——这种曲式的核心特点是：一个主题（叠部，refrain）会反复出现，但每一次回归都当然不会是原样重复——它会被装饰、变形、放进不同的和声或调性语境里，周围环绕着不断变化的插部（episode）。听众认得出这个主题，但每次听到时，它的“模样”都不太一样喵。
+
+狄利克雷：又说得头头是道。你是不是在暗示什么？
+
+猫：暗示什么？
+
+狄利克雷：你不觉得你在暗语伤人吗？你说的简直就是我的孩子回旋回来超越我、覆盖我的场景！
+
+猫：不敢，不敢！求求你息怒！
+
+狄利克雷：好。你继续跳吧——我倒是有点喜欢这个乐章了；从头开始吧。
+
+（猫听话、谨慎地迈开了脚步，终于舞起了天庭的最后一曲……）
+\clearpage
+\begin{center}
+\lily[hpadding=0pt]{
+    \override Staff.StaffSymbol.color       = #white
+    \override Staff.Clef.color              = #white
+    \override Staff.TimeSignature.color     = #white
+    \override Staff.KeySignature.color      = #white
+    \override Staff.BarLine.color           = #white
+    \override Staff.LedgerLineSpanner.color = #white
+    \override NoteHead.color                = #white
+    \override Stem.color                    = #white
+    \override Beam.color                    = #white
+    \override Flag.color                    = #white
+    \override Rest.color                    = #white
+    \override Accidental.color              = #white
+    \override Dots.color                    = #white
+    \override Slur.color                    = #white
+    \override Tie.color                     = #white
+    \override Script.color                  = #white
+    \override DynamicText.color             = #white
+    \override Hairpin.color                 = #white
+    \override TextScript.color              = #white
+    \override TupletBracket.color           = #white
+    \override TupletNumber.color            = #white
+  \relative bes'' {
+  \clef "treble"
+  \time 2/4
+  \key g \major
+  \transposition bes
+  g,,16 -.  a16 -. b16 -. c16 -. d16 -. e16 -. fis16 -. g16 -.
+    a16 -. b16 -. c16 -. d16 -. e16 -. fis16 -. g16 -. a16 -.
+    b8 -.  b8 -. \acciaccatura { b8 ( } a16 ) g16 a16 b16 g8 -.
+    b8 -. g8 r8 \bar "||"}
+}
+\end{center}
+
+
+\rule{0pt}{20pt}
+
+\noindent\adjustbox{center}{\includegraphics[scale=1]{trebleclef.preview.pdf}}
+
+
+}
+
+

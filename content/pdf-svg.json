@@ -1,0 +1,335 @@
+{
+  "converter": "pdftocairo 25.02.0",
+  "pdfCount": 26,
+  "svgPages": 33,
+  "documents": {
+    "Allegro.pdf": {
+      "sourceHash": "6db38e1eb2a107cd77309c3c97ea7741b2ceaf0dfec584d9f5eebe6761a76e98",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-59beacc9d90e-1.svg",
+          "width": 481.89,
+          "height": 127.56,
+          "vectorPaths": 181
+        }
+      ]
+    },
+    "Adagio.pdf": {
+      "sourceHash": "d7d7b59fceff9025e8b74ae7db2123e0d8b166729340f23077d78625e74c32aa",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-5cd420dd187f-1.svg",
+          "width": 481.89,
+          "height": 113.39,
+          "vectorPaths": 148
+        }
+      ]
+    },
+    "Rondo.pdf": {
+      "sourceHash": "4b429716d5b3c07182876031125b9eb6dad53521f82a4dcb4c86aaf00bacdf84",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-0ed1fca0109d-1.svg",
+          "width": 481.89,
+          "height": 127.56,
+          "vectorPaths": 262
+        }
+      ]
+    },
+    "trebleclef.preview.pdf": {
+      "sourceHash": "efde309b404f31cfe12618da089ed878b0a988e8f91ba527e7c30c1dfc3426f9",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-c140cea8e6e6-1.svg",
+          "width": 17.0,
+          "height": 38.0,
+          "vectorPaths": 2
+        }
+      ]
+    },
+    "Motive-A.pdf": {
+      "sourceHash": "d99e86ff063187866836fef6f01688529f3010e850467ffdba895aafb1ad03ca",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-a99d5dd31122-1.svg",
+          "width": 481.89,
+          "height": 136.06,
+          "vectorPaths": 299
+        }
+      ]
+    },
+    "Motive-B.pdf": {
+      "sourceHash": "866de00ea1c2740956cd81ae330b2c8b166548ee6820178a632e5d9a730a034a",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-30b24f019289-1.svg",
+          "width": 481.89,
+          "height": 141.73,
+          "vectorPaths": 194
+        }
+      ]
+    },
+    "Motive-C.pdf": {
+      "sourceHash": "cf46e6cff7ff0383db6a193610c26ab2ab65ba5c6d84fa5e251effdc0f85067f",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-e572e3dabbb7-1.svg",
+          "width": 481.89,
+          "height": 141.73,
+          "vectorPaths": 205
+        }
+      ]
+    },
+    "plot.pdf": {
+      "sourceHash": "f4db6f1509ed94af7a115642160df063f156eb2faef640a43a1f1ccafb8a7c0b",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-e3f51e3857f4-1.svg",
+          "width": 188.289,
+          "height": 192.544,
+          "vectorPaths": 35
+        }
+      ]
+    },
+    "frontmatter/猫.pdf": {
+      "sourceHash": "4ceaf1908bfea61c31cc9cb3ca92ff375f12cf1375bf23e718ede001e6cc7ad7",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-7772f7f7595a-1.svg",
+          "width": 146.790218,
+          "height": 93.940807,
+          "vectorPaths": 2
+        }
+      ]
+    },
+    "weber_all.pdf": {
+      "sourceHash": "bf13944d0e4a0133595387b7727cf3d795da02ea1b41f9eacf379fcd35ee114e",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-aa273bc6d24b-1.svg",
+          "width": 1006.3,
+          "height": 467.72,
+          "vectorPaths": 605
+        },
+        {
+          "file": "assets/pdf-svg/asset-aa273bc6d24b-2.svg",
+          "width": 1006.3,
+          "height": 467.72,
+          "vectorPaths": 728
+        },
+        {
+          "file": "assets/pdf-svg/asset-aa273bc6d24b-3.svg",
+          "width": 1006.3,
+          "height": 467.72,
+          "vectorPaths": 1075
+        },
+        {
+          "file": "assets/pdf-svg/asset-aa273bc6d24b-4.svg",
+          "width": 1006.3,
+          "height": 467.72,
+          "vectorPaths": 693
+        },
+        {
+          "file": "assets/pdf-svg/asset-aa273bc6d24b-5.svg",
+          "width": 1006.3,
+          "height": 467.72,
+          "vectorPaths": 791
+        },
+        {
+          "file": "assets/pdf-svg/asset-aa273bc6d24b-6.svg",
+          "width": 1006.3,
+          "height": 467.72,
+          "vectorPaths": 589
+        }
+      ]
+    },
+    "Rankin_Selberg.pdf": {
+      "sourceHash": "94184be0f862eaa342b5622b7833c1ee7309b9d456b21e8eb0be1affb14a2c88",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-123dcdfc271d-1.svg",
+          "width": 403.131,
+          "height": 544.134,
+          "vectorPaths": 225
+        }
+      ]
+    },
+    "y_2_x_3_1 (3).pdf": {
+      "sourceHash": "6a03dca0654297f35688ccdfe4d9556a376f6d249d5f80a9b3b1b4bb1f6d56f1",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-f6e145c90274-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 25
+        }
+      ]
+    },
+    "y_2_x_3_x_1 (2).pdf": {
+      "sourceHash": "bcf6ad3ffa1159414a90721750046da07ff81d3d509e91659de812c59031c2b9",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-ad0b0984a0e9-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 27
+        }
+      ]
+    },
+    "y_2_x_3_2x_1 (1).pdf": {
+      "sourceHash": "f2f7fdadd767e9b7710ee3a107da091647832a1eec4a166654be8434dadc9aba",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-2374204c7d56-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 28
+        }
+      ]
+    },
+    "y_2_x_3_3x_2 (1).pdf": {
+      "sourceHash": "a15b4a05522853361c1b43a199eff064cf7406136bebe5831a7651758398d796",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-de3a30ccf38b-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 28
+        }
+      ]
+    },
+    "y_2_x_3_12x_16 (1).pdf": {
+      "sourceHash": "e538ccf21ee01cbbf0f2683084c210ba0e91bfcf196587565c2e2c3085ed6df3",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-c09e6b4ae5a2-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 29
+        }
+      ]
+    },
+    "y_2_x_3_27x_54 (1).pdf": {
+      "sourceHash": "681386322bb630fca2393b5e42190b890fca06c57e13204e5e69e0aec8426fdc",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-ec52816dc257-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 30
+        }
+      ]
+    },
+    "y_2_x_3_8 (1).pdf": {
+      "sourceHash": "a90ae6229a6c0444f538ceae743b25f1be2a5b62930ee7952b90237aaff6d701",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-15120eb9c19e-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 26
+        }
+      ]
+    },
+    "压轴.pdf": {
+      "sourceHash": "45ff218a24c37a0bc73d4de341cdec34ad52448c75853c0d3452ca4dfc165515",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-9c8895d4070a-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 26
+        }
+      ]
+    },
+    "Yahoo.pdf": {
+      "sourceHash": "52de07010fe465c29ff56a255d9713826472591c817a85253a753bef0cda8eb5",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-01fbb761fd7b-1.svg",
+          "width": 186.323,
+          "height": 203.707,
+          "vectorPaths": 23
+        }
+      ]
+    },
+    "163.pdf": {
+      "sourceHash": "569bd728ebe1d3a57b1941feeb91a04716983ad62a8630acfd873c10c4005002",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-fdbce8561aaa-1.svg",
+          "width": 1218.898,
+          "height": 722.835,
+          "vectorPaths": 672
+        }
+      ]
+    },
+    "quartet1_white.pdf": {
+      "sourceHash": "a2f070f5924342cf2c05b94feb3991f519cb4b63e7dc66156275debb7b7f4d9e",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-146fd6607a92-1.svg",
+          "width": 864.57,
+          "height": 240.94,
+          "vectorPaths": 515
+        }
+      ]
+    },
+    "quartet2.pdf": {
+      "sourceHash": "bd10e033a427bd57655ef4e0e6813ae18ee57455242028a2d083e07604e10179",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-b484e97da99a-1.svg",
+          "width": 977.95,
+          "height": 411.02,
+          "vectorPaths": 698
+        }
+      ]
+    },
+    "weber3_fixed_v3.pdf": {
+      "sourceHash": "2a16fd18a94ee2e69a630505b8a387da14b172fa02581795ac5608367682283d",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-6ec773595cbc-1.svg",
+          "width": 977.95,
+          "height": 467.72,
+          "vectorPaths": 491
+        },
+        {
+          "file": "assets/pdf-svg/asset-6ec773595cbc-2.svg",
+          "width": 977.95,
+          "height": 467.72,
+          "vectorPaths": 565
+        },
+        {
+          "file": "assets/pdf-svg/asset-6ec773595cbc-3.svg",
+          "width": 977.95,
+          "height": 467.72,
+          "vectorPaths": 643
+        }
+      ]
+    },
+    "frontmatter/鸽子.pdf": {
+      "sourceHash": "85633d0e3883285264f568b2cb10ee2ea4a7c614dcd83967e19e7d4bdc987ccc",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-45161a828a66-1.svg",
+          "width": 1279.246582,
+          "height": 1047.721069,
+          "vectorPaths": 2
+        }
+      ]
+    },
+    "relation.pdf": {
+      "sourceHash": "0e70c2a95c558ec8ddfc461275a5801d8272cc58cffb9ba99876a34d0e796922",
+      "pages": [
+        {
+          "file": "assets/pdf-svg/asset-29e186c5ec6b-1.svg",
+          "width": 545.605,
+          "height": 414.132,
+          "vectorPaths": 239
+        }
+      ]
+    }
+  }
+}

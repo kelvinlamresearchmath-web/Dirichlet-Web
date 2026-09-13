@@ -1,0 +1,124 @@
+  
+\addcontentsline{toc}{chapter}{\twkkai{对话录·其六}}  
+\markboth{\twkkai{对话录·其六}}{}  
+\pagecolor{black}
+\color{white}
+\quad\quad \twkkai{\lettrine[,lraise=0.2,lhang=0.5]{\textbf{猫}}{：哎。}
+
+狄利克雷：该叹气的是我，不是你。
+
+猫：每只猫都有自己的苦恼；偏偏我是最苦的那只。
+
+狄利克雷：你还好意思这么认为吗？是你的不负责任，导致天庭乱成这样。
+
+猫：看来你对我意见不浅啊。不过，我有惊喜。
+
+（猫掏出了奖章，轻轻把猫爪搭在狄利克雷大腿上。）
+
+狄利克雷：（平淡地）你找回来啦？
+
+猫：是啊——你不应该为此感到高兴吗？
+
+狄利克雷：我已经没有精力高兴了。这是你的本分。
+
+猫：哎……
+
+（猫用爪子摩挲着奖章\marginnote{
+\centering
+{\Large ♪}
+
+\vspace{0.4em}
+
+\qraudio{quartet2}{\quartetSound}{https://raw.githubusercontent.com/kelvinlamresearchmath-web/finding-dirichlet-site/master/quartet2.mp3}
+
+\vspace{0.3em}
+}[1.4cm]
+{\small ♪}。）
+
+\noindent\adjustbox{center}{\includegraphics[scale=0.35]{quartet2.pdf}}
+
+狄利克雷：这段旋律是什么？就是你说的门德尔松的同一首曲子的后半部吗？
+
+猫：本喵很高兴引起了你的兴趣——是的，这段是门德尔松Op.81第三乐章后半部的赋格\index{fuge@赋格（fugue）}\index{fuge@赋格（fugue）!门德尔松 Op.81 第三乐章后半段}，速度标记是\textit{Allegro fugato, assai vivace}。
+
+狄利克雷：怪不得那么轻快了。赋格，赋格——有点似曾相识；的确，听起来像是几段移调过的旋律先后出场，交织在一起呢。
+
+猫：是的——我就说你肯定是听说过赋格这个概念的。
+
+守门人：……这一切都发生在同一个舞台——主角就是你们所看到的\(f(\tau)\)和\(\overline{g(\tau)}\)……
+\[
+(4\pi)^{-s}\Gamma(s)
+\frac{L(s,f\otimes g)}
+{\zeta(2s-2k+2)}
+=
+\int_{\Gamma\backslash\mathbb H}
+f(\tau)\overline{g(\tau)}
+\,y^k
+E(\tau,s-k+1)
+\frac{dx\,dy}{y^2}.
+\]
+
+猫：（舔了舔爪子，悄悄地说着）卡得真准。（提高了音量）刚才这一段，是赋格的呈示部。而赋格的本质，就是先把一段旋律复制出来，再把副本平移若干小节；同时把副本整体上移五度（或者下移四度）。在这里，这段旋律的本体就大概是这样的——\kern-15pt\lily[hpadding=0pt]{
+    \override Staff.StaffSymbol.color       = #white
+    \override Staff.Clef.color              = #white
+    \override Staff.TimeSignature.color     = #white
+    \override Staff.KeySignature.color      = #white
+    \override Staff.BarLine.color           = #white
+    \override Staff.LedgerLineSpanner.color = #white
+    \override NoteHead.color                = #white
+    \override Stem.color                    = #white
+    \override Beam.color                    = #white
+    \override Flag.color                    = #white
+    \override Rest.color                    = #white
+    \override Accidental.color              = #white
+    \override Dots.color                    = #white
+    \override Slur.color                    = #white
+    \override Tie.color                     = #white
+    \override Script.color                  = #white
+    \override DynamicText.color             = #white
+    \override Hairpin.color                 = #white
+    \override TextScript.color              = #white
+    \override TupletBracket.color           = #white
+    \override TupletNumber.color            = #white
+  \clef treble
+  \key g \major
+  \time 4/4
+\relative c' {
+\partial 8 b'8 c16[ d e d] c[ b a g] fis4 r8 g8 a16[ b c b] a[ g fis e] dis4 r8 dis8 \bar "||"  
+}
+}\kern5pt 。你说，是不是和守门人说的\(f(\tau)\)和\(\overline{g(\tau)}\)的卷积挺像呢？
+
+狄利克雷：老喽——又跟不上了。
+
+猫：我的朋友，不要再这么说啦。你看看嘛，两条旋律，到这时就产生了差异；一有差异，就有了答题和对题。主旋律答题，副旋律对题，有起有伏呢！而且这些旋律自己是交替唱着答题和对题的；最神奇的是，整体呈现出来的和声效果，也是答题和对题相互交替进行的！这不像\(f(\tau)\)和\(\overline{g(\tau)}\)卷积起来，得到一个全新的、但又与局部相似的整体吗？比如像守门人说的，那个全新的\(L\)-函数——\({L(s,f\otimes g)}\)啊；还顺便得到了这个\(L\)-函数的函数方程！噫——想想就全身发麻……这就是对位法的魅力。
+
+狄利克雷：好啦好啦，知道了——又在枉费口水。不过确实好听，也确实精彩。
+
+猫：很高兴本喵的讲解带给了你享受。
+
+狄利克雷：我可不享受。
+
+猫：又咋了？
+
+狄利克雷：使者呢？
+
+猫：怎么又扯到这里来了……
+
+狄利克雷：“怎么又扯到这里”？你的反问很影响我等下做数学研究的心情。
+
+猫：（再次舔了舔爪子）好吧，本喵现在就去！
+
+\rule{0pt}{20pt}
+
+\begin{center}
+\noindent\adjustbox{center}{\includegraphics[scale=1]{trebleclef.preview.pdf}}
+\end{center}
+
+}
+
+
+
+
+
+
+
