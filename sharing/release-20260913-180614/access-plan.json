@@ -1,0 +1,17 @@
+{
+  "status": "not-configured",
+  "allowedEmails": [
+    "kelvin.lam.research.math@gmail.com"
+  ],
+  "login": "Cloudflare Access one-time PIN",
+  "sessionDuration": "24h",
+  "coverage": "entire hostname, all paths and assets",
+  "origin": "loopback-only, reached through named Cloudflare Tunnel",
+  "requirements": [
+    "Cloudflare account login",
+    "domain or supported protected hostname",
+    "Access application and exact-email policy before exposing route",
+    "cloudflared Access JWT validation",
+    "unauthorized request checks for HTML, JSON, SVG, audio and PDF"
+  ]
+}

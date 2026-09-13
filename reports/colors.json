@@ -1,0 +1,1347 @@
+{
+  "source": "M:\\Dirichlet\\main1.tex",
+  "sourceSha256": "67338bb51016966e16aff44cdef541e10cb6e2ec991dd4d0792319323390dfa6",
+  "method": "xcolor natural-model sequential mixing; additive CMYK→RGB, with ICC screen approximation for OliveGreen; no PDF or image sampling",
+  "definitions": [
+    "M:\\lualatex\\2026\\texmf-dist\\tex\\latex\\graphics\\dvipsnam.def",
+    "M:\\lualatex\\2026\\texmf-dist\\tex\\latex\\xcolor\\xcolor.sty"
+  ],
+  "screenProfile": {
+    "file": "M:\\lualatex\\2026\\tlpkg\\tlgs\\iccprofiles\\default_cmyk.icc",
+    "sha256": "8472fa1493a024b800b67dee9424835ec0c41ab79490200ae8ec4a689fd1b9a9"
+  },
+  "colors": {
+    "ForestGreen!15!Gray!": "#6b8e6c",
+    "Goldenrod!20!Gray": "#99946e",
+    "MidnightBlue!20!Gray": "#517c83",
+    "OliveGreen!30!gray": "#7f8f7c",
+    "Periwinkle!30!Gray": "#7a7ca6",
+    "Sepia!20!Orange!20!Gray": "#927164",
+    "black": "#000000",
+    "cyan!10!gray": "#738c8c",
+    "purple!10!gray": "#867379",
+    "white": "#ffffff"
+  },
+  "calculations": {
+    "ForestGreen!15!Gray!": {
+      "rgb": [
+        107,
+        142,
+        108
+      ],
+      "hex": "#6b8e6c",
+      "model": "cmyk",
+      "components": [
+        0.1365,
+        0.0,
+        0.132,
+        0.443
+      ],
+      "steps": [
+        {
+          "percentage": 15.0,
+          "other": "Gray",
+          "model": "cmyk",
+          "components": [
+            0.1365,
+            0.0,
+            0.132,
+            0.443
+          ]
+        }
+      ],
+      "displayMethod": "xcolor RGB"
+    },
+    "Goldenrod!20!Gray": {
+      "rgb": [
+        153,
+        148,
+        110
+      ],
+      "hex": "#99946e",
+      "model": "cmyk",
+      "components": [
+        0.0,
+        0.020000000000000004,
+        0.168,
+        0.4
+      ],
+      "steps": [
+        {
+          "percentage": 20.0,
+          "other": "Gray",
+          "model": "cmyk",
+          "components": [
+            0.0,
+            0.020000000000000004,
+            0.168,
+            0.4
+          ]
+        }
+      ],
+      "displayMethod": "xcolor RGB"
+    },
+    "MidnightBlue!20!Gray": {
+      "rgb": [
+        81,
+        124,
+        131
+      ],
+      "hex": "#517c83",
+      "model": "cmyk",
+      "components": [
+        0.196,
+        0.026000000000000002,
+        0.0,
+        0.48600000000000004
+      ],
+      "steps": [
+        {
+          "percentage": 20.0,
+          "other": "Gray",
+          "model": "cmyk",
+          "components": [
+            0.196,
+            0.026000000000000002,
+            0.0,
+            0.48600000000000004
+          ]
+        }
+      ],
+      "displayMethod": "xcolor RGB"
+    },
+    "OliveGreen!30!gray": {
+      "rgb": [
+        127,
+        143,
+        124
+      ],
+      "hex": "#7f8f7c",
+      "model": "cmyk",
+      "components": [
+        0.192,
+        0.0,
+        0.285,
+        0.47
+      ],
+      "steps": [
+        {
+          "percentage": 30.0,
+          "other": "gray",
+          "model": "cmyk",
+          "components": [
+            0.192,
+            0.0,
+            0.285,
+            0.47
+          ]
+        }
+      ],
+      "displayMethod": "source CMYK via default_cmyk ICC to sRGB"
+    },
+    "Periwinkle!30!Gray": {
+      "rgb": [
+        122,
+        124,
+        166
+      ],
+      "hex": "#7a7ca6",
+      "model": "cmyk",
+      "components": [
+        0.17099999999999999,
+        0.165,
+        0.0,
+        0.35
+      ],
+      "steps": [
+        {
+          "percentage": 30.0,
+          "other": "Gray",
+          "model": "cmyk",
+          "components": [
+            0.17099999999999999,
+            0.165,
+            0.0,
+            0.35
+          ]
+        }
+      ],
+      "displayMethod": "xcolor RGB"
+    },
+    "Sepia!20!Orange!20!Gray": {
+      "rgb": [
+        146,
+        113,
+        100
+      ],
+      "hex": "#927164",
+      "model": "cmyk",
+      "components": [
+        0.0,
+        0.1308,
+        0.17920000000000003,
+        0.42800000000000005
+      ],
+      "steps": [
+        {
+          "percentage": 20.0,
+          "other": "Orange",
+          "model": "cmyk",
+          "components": [
+            0.0,
+            0.654,
+            0.8960000000000001,
+            0.13999999999999999
+          ]
+        },
+        {
+          "percentage": 20.0,
+          "other": "Gray",
+          "model": "cmyk",
+          "components": [
+            0.0,
+            0.1308,
+            0.17920000000000003,
+            0.42800000000000005
+          ]
+        }
+      ],
+      "displayMethod": "xcolor RGB"
+    },
+    "black": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "model": "gray",
+      "components": [
+        0
+      ],
+      "steps": [],
+      "displayMethod": "xcolor RGB"
+    },
+    "cyan!10!gray": {
+      "rgb": [
+        115,
+        140,
+        140
+      ],
+      "hex": "#738c8c",
+      "model": "cmyk",
+      "components": [
+        0.1,
+        0.0,
+        0.0,
+        0.45
+      ],
+      "steps": [
+        {
+          "percentage": 10.0,
+          "other": "gray",
+          "model": "cmyk",
+          "components": [
+            0.1,
+            0.0,
+            0.0,
+            0.45
+          ]
+        }
+      ],
+      "displayMethod": "xcolor RGB"
+    },
+    "purple!10!gray": {
+      "rgb": [
+        134,
+        115,
+        121
+      ],
+      "hex": "#867379",
+      "model": "rgb",
+      "components": [
+        0.525,
+        0.45,
+        0.47500000000000003
+      ],
+      "steps": [
+        {
+          "percentage": 10.0,
+          "other": "gray",
+          "model": "rgb",
+          "components": [
+            0.525,
+            0.45,
+            0.47500000000000003
+          ]
+        }
+      ],
+      "displayMethod": "xcolor RGB"
+    },
+    "white": {
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#ffffff",
+      "model": "gray",
+      "components": [
+        1
+      ],
+      "steps": [],
+      "displayMethod": "xcolor RGB"
+    }
+  },
+  "chapters": {
+    "ch-8639a8e8d630": {
+      "title": "奖章",
+      "expression": "OliveGreen!30!gray",
+      "textExpression": "white",
+      "background": "#7f8f7c",
+      "foreground": "#ffffff",
+      "rgb": [
+        127,
+        143,
+        124
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "OliveGreen!30!gray",
+          "rgb": [
+            127,
+            143,
+            124
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-595e4135186e": {
+      "title": "对话录·其一",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-e03137f02549": {
+      "title": "缺席(I)",
+      "expression": "cyan!10!gray",
+      "textExpression": "white",
+      "background": "#738c8c",
+      "foreground": "#ffffff",
+      "rgb": [
+        115,
+        140,
+        140
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "cyan!10!gray",
+          "rgb": [
+            115,
+            140,
+            140
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "pagecolor",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "command": "pagecolor",
+          "expression": "cyan!10!gray",
+          "rgb": [
+            115,
+            140,
+            140
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-a15494e2bae2": {
+      "title": "偶遇(I)",
+      "expression": "purple!10!gray",
+      "textExpression": "white",
+      "background": "#867379",
+      "foreground": "#ffffff",
+      "rgb": [
+        134,
+        115,
+        121
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "purple!10!gray",
+          "rgb": [
+            134,
+            115,
+            121
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-04839f85879d": {
+      "title": "偶遇(II)",
+      "expression": "purple!10!gray",
+      "textExpression": "white",
+      "background": "#867379",
+      "foreground": "#ffffff",
+      "rgb": [
+        134,
+        115,
+        121
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "purple!10!gray",
+          "rgb": [
+            134,
+            115,
+            121
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-43d988ac60c4": {
+      "title": "对话录·其二",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-736462f0ef94": {
+      "title": "数茶(I)",
+      "expression": "Goldenrod!20!Gray",
+      "textExpression": "white",
+      "background": "#99946e",
+      "foreground": "#ffffff",
+      "rgb": [
+        153,
+        148,
+        110
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "Goldenrod!20!Gray",
+          "rgb": [
+            153,
+            148,
+            110
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-7678724b819f": {
+      "title": "缺席(II)",
+      "expression": "cyan!10!gray",
+      "textExpression": "white",
+      "background": "#738c8c",
+      "foreground": "#ffffff",
+      "rgb": [
+        115,
+        140,
+        140
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "cyan!10!gray",
+          "rgb": [
+            115,
+            140,
+            140
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "pagecolor",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "command": "pagecolor",
+          "expression": "cyan!10!gray",
+          "rgb": [
+            115,
+            140,
+            140
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-9a902dfdf80a": {
+      "title": "对话录·其三",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-77c492a25db3": {
+      "title": "错乱(I)",
+      "expression": "Periwinkle!30!Gray",
+      "textExpression": "white",
+      "background": "#7a7ca6",
+      "foreground": "#ffffff",
+      "rgb": [
+        122,
+        124,
+        166
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "Periwinkle!30!Gray",
+          "rgb": [
+            122,
+            124,
+            166
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-d1eb101a0244": {
+      "title": "缺席(III)",
+      "expression": "cyan!10!gray",
+      "textExpression": "white",
+      "background": "#738c8c",
+      "foreground": "#ffffff",
+      "rgb": [
+        115,
+        140,
+        140
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "cyan!10!gray",
+          "rgb": [
+            115,
+            140,
+            140
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-561c516dd29d": {
+      "title": "对话录·其四",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-0c46b20ceece": {
+      "title": "偶遇(III)",
+      "expression": "purple!10!gray",
+      "textExpression": "white",
+      "background": "#867379",
+      "foreground": "#ffffff",
+      "rgb": [
+        134,
+        115,
+        121
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "purple!10!gray",
+          "rgb": [
+            134,
+            115,
+            121
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-4d3ad085d41b": {
+      "title": "数茶(II)",
+      "expression": "Goldenrod!20!Gray",
+      "textExpression": "white",
+      "background": "#99946e",
+      "foreground": "#ffffff",
+      "rgb": [
+        153,
+        148,
+        110
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "Goldenrod!20!Gray",
+          "rgb": [
+            153,
+            148,
+            110
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-3ce51ce85387": {
+      "title": "对话录·其五",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-5f3bfa3b18ae": {
+      "title": "灰尘(I)",
+      "expression": "ForestGreen!15!Gray!",
+      "textExpression": "white",
+      "background": "#6b8e6c",
+      "foreground": "#ffffff",
+      "rgb": [
+        107,
+        142,
+        108
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "ForestGreen!15!Gray!",
+          "rgb": [
+            107,
+            142,
+            108
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-9bac4344e4f4": {
+      "title": "灰尘(II)",
+      "expression": "ForestGreen!15!Gray!",
+      "textExpression": "white",
+      "background": "#6b8e6c",
+      "foreground": "#ffffff",
+      "rgb": [
+        107,
+        142,
+        108
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "ForestGreen!15!Gray!",
+          "rgb": [
+            107,
+            142,
+            108
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-c2a72142644f": {
+      "title": "数茶(III)",
+      "expression": "Goldenrod!20!Gray",
+      "textExpression": "white",
+      "background": "#99946e",
+      "foreground": "#ffffff",
+      "rgb": [
+        153,
+        148,
+        110
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "Goldenrod!20!Gray",
+          "rgb": [
+            153,
+            148,
+            110
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-e569561ec600": {
+      "title": "对话录·其六",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-c3d6eabc0593": {
+      "title": "重逢(I)",
+      "expression": "MidnightBlue!20!Gray",
+      "textExpression": "white",
+      "background": "#517c83",
+      "foreground": "#ffffff",
+      "rgb": [
+        81,
+        124,
+        131
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "MidnightBlue!20!Gray",
+          "rgb": [
+            81,
+            124,
+            131
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-ff6b26d8b096": {
+      "title": "重逢(II)",
+      "expression": "MidnightBlue!20!Gray",
+      "textExpression": "white",
+      "background": "#517c83",
+      "foreground": "#ffffff",
+      "rgb": [
+        81,
+        124,
+        131
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "MidnightBlue!20!Gray",
+          "rgb": [
+            81,
+            124,
+            131
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-cc06b8d86f14": {
+      "title": "对话录·其七",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-657694f3803a": {
+      "title": "错乱(II)",
+      "expression": "Periwinkle!30!Gray",
+      "textExpression": "white",
+      "background": "#7a7ca6",
+      "foreground": "#ffffff",
+      "rgb": [
+        122,
+        124,
+        166
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "Periwinkle!30!Gray",
+          "rgb": [
+            122,
+            124,
+            166
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-f5bce17a275c": {
+      "title": "对话录·其八",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-aba25622e08f": {
+      "title": "坠落",
+      "expression": "Sepia!20!Orange!20!Gray",
+      "textExpression": "white",
+      "background": "#927164",
+      "foreground": "#ffffff",
+      "rgb": [
+        146,
+        113,
+        100
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "Sepia!20!Orange!20!Gray",
+          "rgb": [
+            146,
+            113,
+            100
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-a004b7c671e3": {
+      "title": "对话录·其九",
+      "expression": "black",
+      "textExpression": "white",
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-a3f4e24e754e": {
+      "title": "奖章：终章",
+      "expression": "OliveGreen!30!gray",
+      "textExpression": "white",
+      "background": "#7f8f7c",
+      "foreground": "#ffffff",
+      "rgb": [
+        127,
+        143,
+        124
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "OliveGreen!30!gray",
+          "rgb": [
+            127,
+            143,
+            124
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "command": "pagecolor",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "ch-cfde2258c445": {
+      "title": "后记",
+      "expression": "white",
+      "textExpression": "black",
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "transitions": [
+        {
+          "command": "pagecolor",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "color",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "pagecolor",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-b956d0125efb": {
+      "title": "附录与参考文献",
+      "expression": "white",
+      "textExpression": "black",
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "transitions": [
+        {
+          "command": "color",
+          "expression": "black",
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "command": "pagecolor",
+          "expression": "white",
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "ch-836b325a1f26": {
+      "title": "附赠书签",
+      "expression": "white",
+      "textExpression": "black",
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "transitions": []
+    }
+  }
+}

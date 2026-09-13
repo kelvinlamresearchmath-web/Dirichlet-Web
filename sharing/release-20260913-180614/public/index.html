@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>寻找狄利克雷 · 中文阅读</title>
+<meta name="description" content="《寻找狄利克雷》中文 HTML 阅读版，包含数学公式、章节目录及原稿索引的双向链接。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2324382c'/%3E%3Ctext x='9' y='25' font-family='serif' font-size='26' fill='%23d9c68b'%3EL%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="vendor/katex/dist/katex.min.css"><link rel="stylesheet" href="reader.css?v=20260913-doves-4">
+</head>
+<body>
+<aside class="sidebar" id="sidebar" aria-label="书籍侧边栏">
+<a href="#" class="book-name">寻找狄利克雷</a><p class="book-subtitle">IN SEARCH OF DIRICHLET</p>
+<button class="side-close" id="side-close" style="display:none" aria-label="关闭侧边栏">关闭目录</button>
+<div class="side-tabs"><button id="chapters-tab" aria-pressed="true" aria-controls="chapters-pane">章节</button><button id="indices-tab" aria-pressed="false" aria-controls="indices-pane">索引</button></div>
+<div class="side-content" id="chapters-pane"><nav id="chapter-list" aria-label="章节目录"></nav></div>
+<div class="side-content" id="indices-pane" hidden><label for="index-search" class="index-count">查找人物、概念与主题</label><input class="index-search" id="index-search" type="search" placeholder="例如：伊藤、类域论"><p class="index-count" id="index-count"></p><nav id="index-list" aria-label="全书索引"></nav></div>
+<div class="side-foot"><a href="original.html">原版排版 ↗</a></div>
+</aside>
+<div class="progress" aria-hidden="true"></div>
+<main class="workspace">
+<header class="topbar"><button class="mobile-menu" id="menu" aria-controls="sidebar" aria-expanded="false">目录</button><span id="current-title" class="current-title">中文阅读</span><div class="top-actions"><button id="smaller" aria-label="缩小字号">A−</button><button id="larger" aria-label="增大字号">A＋</button><a href="original.html">原书</a></div></header>
+<div class="reading-shell"><article class="article" id="article" data-theme="sage"><div class="chapter-kicker" id="kicker">CHAPTER 01</div><h1 id="chapter-title">奖章</h1><hr class="chapter-rule"><div id="article-body"><p class="loading">正在打开正文…</p></div></article><nav class="chapter-nav" id="chapter-navigation" aria-label="前后章节"></nav></div>
+</main>
+<dialog id="index-dialog" aria-labelledby="entry-title"><header><span>书内索引</span><button id="panel-close" aria-label="关闭索引面板">关闭 ×</button></header><h2 id="entry-title"></h2><p id="entry-meta"></p><nav class="occurrence-list" id="occurrence-list" aria-label="索引出现位置"></nav><h3 id="related-heading" class="related-title">同一主条目</h3><nav class="related-links" id="related-links" aria-label="相关索引"></nav></dialog>
+<noscript>此版阅读导航需要 JavaScript。可通过“原版排版”入口阅读完整 PDF。</noscript>
+<script type="module" src="app.mjs?v=20260913-figures-3"></script>
+</body></html>

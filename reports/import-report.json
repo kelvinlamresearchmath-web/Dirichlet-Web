@@ -1,0 +1,157 @@
+{
+  "source": "M:\\Dirichlet\\main1.tex",
+  "sourceSha256": "67338bb51016966e16aff44cdef541e10cb6e2ec991dd4d0792319323390dfa6",
+  "chapters": 30,
+  "sourceIndexCount": 110,
+  "linkedIndexCount": 110,
+  "uniqueEntries": 110,
+  "directTermLinks": 39,
+  "formulaOccurrences": 596,
+  "warnings": {
+    "command:thisblankpage": 3,
+    "command:myblankpage": 2,
+    "command:toprule": 1,
+    "command:midrule": 1,
+    "command:bottomrule": 1,
+    "command:AddSymbolsH": 2,
+    "command:AddSymbolsG": 1
+  },
+  "assets": {
+    "Allegro.mp3": {
+      "file": "assets/asset-09bb1d8d972a.mp3",
+      "source": "Allegro.mp3"
+    },
+    "Allegro.pdf": {
+      "file": "assets/asset-59beacc9d90e.pdf",
+      "source": "Allegro.pdf"
+    },
+    "Adagio.mp3": {
+      "file": "assets/asset-76e59aa76b46.mp3",
+      "source": "Adagio.mp3"
+    },
+    "Adagio.pdf": {
+      "file": "assets/asset-5cd420dd187f.pdf",
+      "source": "Adagio.pdf"
+    },
+    "Rondo.mp3": {
+      "file": "assets/asset-a36d943b2590.mp3",
+      "source": "Rondo.mp3"
+    },
+    "Rondo.pdf": {
+      "file": "assets/asset-0ed1fca0109d.pdf",
+      "source": "Rondo.pdf"
+    },
+    "trebleclef.preview.pdf": {
+      "file": "assets/asset-c140cea8e6e6.pdf",
+      "source": "trebleclef.preview.pdf"
+    },
+    "Motive-A.pdf": {
+      "file": "assets/asset-a99d5dd31122.pdf",
+      "source": "Motive-A.pdf"
+    },
+    "Motive-A.mp3": {
+      "file": "assets/asset-4149db29d2f7.mp3",
+      "source": "Motive-A.mp3"
+    },
+    "Motive-B.pdf": {
+      "file": "assets/asset-30b24f019289.pdf",
+      "source": "Motive-B.pdf"
+    },
+    "Motive-B.mp3": {
+      "file": "assets/asset-b538afeb1839.mp3",
+      "source": "Motive-B.mp3"
+    },
+    "Motive-C.pdf": {
+      "file": "assets/asset-e572e3dabbb7.pdf",
+      "source": "Motive-C.pdf"
+    },
+    "Motive-C.mp3": {
+      "file": "assets/asset-f00c2a138f6d.mp3",
+      "source": "Motive-C.mp3"
+    },
+    "plot.pdf": {
+      "file": "assets/asset-e3f51e3857f4.pdf",
+      "source": "plot.pdf"
+    },
+    "frontmatter/猫.pdf": {
+      "file": "assets/asset-7772f7f7595a.pdf",
+      "source": "frontmatter/猫.pdf"
+    },
+    "weber_all.pdf": {
+      "file": "assets/asset-aa273bc6d24b.pdf",
+      "source": "weber_all.pdf"
+    },
+    "Rankin_Selberg.pdf": {
+      "file": "assets/asset-123dcdfc271d.pdf",
+      "source": "Rankin_Selberg.pdf"
+    },
+    "y_2_x_3_1 (3).pdf": {
+      "file": "assets/asset-f6e145c90274.pdf",
+      "source": "y_2_x_3_1 (3).pdf"
+    },
+    "y_2_x_3_x_1 (2).pdf": {
+      "file": "assets/asset-ad0b0984a0e9.pdf",
+      "source": "y_2_x_3_x_1 (2).pdf"
+    },
+    "y_2_x_3_2x_1 (1).pdf": {
+      "file": "assets/asset-2374204c7d56.pdf",
+      "source": "y_2_x_3_2x_1 (1).pdf"
+    },
+    "y_2_x_3_3x_2 (1).pdf": {
+      "file": "assets/asset-de3a30ccf38b.pdf",
+      "source": "y_2_x_3_3x_2 (1).pdf"
+    },
+    "y_2_x_3_12x_16 (1).pdf": {
+      "file": "assets/asset-c09e6b4ae5a2.pdf",
+      "source": "y_2_x_3_12x_16 (1).pdf"
+    },
+    "y_2_x_3_27x_54 (1).pdf": {
+      "file": "assets/asset-ec52816dc257.pdf",
+      "source": "y_2_x_3_27x_54 (1).pdf"
+    },
+    "y_2_x_3_8 (1).pdf": {
+      "file": "assets/asset-15120eb9c19e.pdf",
+      "source": "y_2_x_3_8 (1).pdf"
+    },
+    "压轴.pdf": {
+      "file": "assets/asset-9c8895d4070a.pdf",
+      "source": "压轴.pdf"
+    },
+    "Yahoo.pdf": {
+      "file": "assets/asset-01fbb761fd7b.pdf",
+      "source": "Yahoo.pdf"
+    },
+    "163.pdf": {
+      "file": "assets/asset-fdbce8561aaa.pdf",
+      "source": "163.pdf"
+    },
+    "quartet1.mp3": {
+      "file": "assets/asset-0c14c7d98080.mp3",
+      "source": "quartet1.mp3"
+    },
+    "quartet1_white.pdf": {
+      "file": "assets/asset-146fd6607a92.pdf",
+      "source": "quartet1_white.pdf"
+    },
+    "quartet2.mp3": {
+      "file": "assets/asset-15efc746bae5.mp3",
+      "source": "quartet2.mp3"
+    },
+    "quartet2.pdf": {
+      "file": "assets/asset-b484e97da99a.pdf",
+      "source": "quartet2.pdf"
+    },
+    "weber3_fixed_v3.pdf": {
+      "file": "assets/asset-6ec773595cbc.pdf",
+      "source": "weber3_fixed_v3.pdf"
+    },
+    "frontmatter/鸽子.pdf": {
+      "file": "assets/asset-45161a828a66.pdf",
+      "source": "frontmatter/鸽子.pdf"
+    },
+    "relation.pdf": {
+      "file": "assets/asset-29e186c5ec6b.pdf",
+      "source": "relation.pdf"
+    }
+  }
+}

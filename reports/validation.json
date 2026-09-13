@@ -1,0 +1,15 @@
+{
+  "chapters": 30,
+  "indexLinks": 110,
+  "formulaOccurrences": 596,
+  "inlineAndDisplayScores": 12,
+  "scoreModes": {
+    "score-inline": 11,
+    "score-display": 1
+  },
+  "brokenIndexLinks": 0,
+  "missingReferencedAssets": 0,
+  "colorSource": "main1.tex xcolor commands",
+  "pdfDocuments": 26,
+  "pdfSvgPages": 33
+}

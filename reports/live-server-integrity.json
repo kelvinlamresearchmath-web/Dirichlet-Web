@@ -1,0 +1,259 @@
+{
+  "server": "http://127.0.0.1:5500",
+  "chaptersChecked": 30,
+  "newTransportExactMatches": 30,
+  "affectedByOldTransport": [
+    "奖章",
+    "缺席(I)",
+    "缺席(III)",
+    "对话录·其四",
+    "偶遇(III)",
+    "数茶(II)",
+    "对话录·其五",
+    "灰尘(II)",
+    "数茶(III)",
+    "坠落"
+  ],
+  "chapters": [
+    {
+      "chapter": "奖章",
+      "id": "ch-8639a8e8d630",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 2,
+      "jsonBytes": 196679,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其一",
+      "id": "ch-595e4135186e",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 40904,
+      "exactMatch": true
+    },
+    {
+      "chapter": "缺席(I)",
+      "id": "ch-e03137f02549",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 6,
+      "jsonBytes": 221092,
+      "exactMatch": true
+    },
+    {
+      "chapter": "偶遇(I)",
+      "id": "ch-a15494e2bae2",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 54088,
+      "exactMatch": true
+    },
+    {
+      "chapter": "偶遇(II)",
+      "id": "ch-04839f85879d",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 239318,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其二",
+      "id": "ch-43d988ac60c4",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 26063,
+      "exactMatch": true
+    },
+    {
+      "chapter": "数茶(I)",
+      "id": "ch-736462f0ef94",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 10065,
+      "exactMatch": true
+    },
+    {
+      "chapter": "缺席(II)",
+      "id": "ch-7678724b819f",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 128712,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其三",
+      "id": "ch-9a902dfdf80a",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 7693,
+      "exactMatch": true
+    },
+    {
+      "chapter": "错乱(I)",
+      "id": "ch-77c492a25db3",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 12817,
+      "exactMatch": true
+    },
+    {
+      "chapter": "缺席(III)",
+      "id": "ch-d1eb101a0244",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 10,
+      "jsonBytes": 246364,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其四",
+      "id": "ch-561c516dd29d",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 4,
+      "jsonBytes": 48226,
+      "exactMatch": true
+    },
+    {
+      "chapter": "偶遇(III)",
+      "id": "ch-0c46b20ceece",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 2,
+      "jsonBytes": 246241,
+      "exactMatch": true
+    },
+    {
+      "chapter": "数茶(II)",
+      "id": "ch-4d3ad085d41b",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 4,
+      "jsonBytes": 142221,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其五",
+      "id": "ch-3ce51ce85387",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 2,
+      "jsonBytes": 40250,
+      "exactMatch": true
+    },
+    {
+      "chapter": "灰尘(I)",
+      "id": "ch-5f3bfa3b18ae",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 9569,
+      "exactMatch": true
+    },
+    {
+      "chapter": "灰尘(II)",
+      "id": "ch-9bac4344e4f4",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 4,
+      "jsonBytes": 60110,
+      "exactMatch": true
+    },
+    {
+      "chapter": "数茶(III)",
+      "id": "ch-c2a72142644f",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 6,
+      "jsonBytes": 88021,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其六",
+      "id": "ch-e569561ec600",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 26614,
+      "exactMatch": true
+    },
+    {
+      "chapter": "重逢(I)",
+      "id": "ch-c3d6eabc0593",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 52471,
+      "exactMatch": true
+    },
+    {
+      "chapter": "重逢(II)",
+      "id": "ch-ff6b26d8b096",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 22482,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其七",
+      "id": "ch-cc06b8d86f14",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 22540,
+      "exactMatch": true
+    },
+    {
+      "chapter": "错乱(II)",
+      "id": "ch-657694f3803a",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 6952,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其八",
+      "id": "ch-f5bce17a275c",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 5980,
+      "exactMatch": true
+    },
+    {
+      "chapter": "坠落",
+      "id": "ch-aba25622e08f",
+      "htmlTransportAltered": true,
+      "htmlInjectionCount": 2,
+      "jsonBytes": 16908,
+      "exactMatch": true
+    },
+    {
+      "chapter": "对话录·其九",
+      "id": "ch-a004b7c671e3",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 2287,
+      "exactMatch": true
+    },
+    {
+      "chapter": "奖章：终章",
+      "id": "ch-a3f4e24e754e",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 5868,
+      "exactMatch": true
+    },
+    {
+      "chapter": "后记",
+      "id": "ch-cfde2258c445",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 3324,
+      "exactMatch": true
+    },
+    {
+      "chapter": "附录与参考文献",
+      "id": "ch-b956d0125efb",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 8074,
+      "exactMatch": true
+    },
+    {
+      "chapter": "附赠书签",
+      "id": "ch-836b325a1f26",
+      "htmlTransportAltered": false,
+      "htmlInjectionCount": 0,
+      "jsonBytes": 865,
+      "exactMatch": true
+    }
+  ]
+}

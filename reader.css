@@ -1,0 +1,81 @@
+@font-face{font-family:BookMath;src:local('Times New Roman')}
+:root{font:16px/1.5 system-ui,-apple-system,'Microsoft YaHei',sans-serif;color-scheme:dark;--edge:#273e36;--muted:#a9bcb0;--gold:#d9c68b;--ink:#edf2e8;--body:#344a3f;--font-size:20px}
+*{box-sizing:border-box}body{margin:0;background:#14251f;color:var(--ink)}a{color:inherit;text-underline-offset:4px}button,input{font:inherit}button{cursor:pointer;color:inherit;background:none;border:1px solid #526b5c;border-radius:7px;padding:8px 12px;min-height:40px}button:hover{background:#ffffff0c}button:disabled{opacity:.35;cursor:default}:focus-visible{outline:2px solid var(--gold);outline-offset:4px}[hidden]{display:none!important}
+.sidebar{position:fixed;inset:0 auto 0 0;width:268px;background:#14241f;border-right:1px solid #415448;display:flex;flex-direction:column;padding:28px 20px;z-index:20}.book-name{font:600 23px/1.6 'Songti SC',SimSun,serif;text-decoration:none;letter-spacing:.08em}.book-subtitle{font:12px/1.6 Georgia,serif;letter-spacing:.14em;color:var(--muted);margin:8px 0 24px}.side-tabs{display:flex;gap:5px;border-bottom:1px solid #46574b;padding-bottom:13px}.side-tabs button{flex:1;border:0;border-radius:4px;color:var(--muted)}.side-tabs button[aria-pressed=true]{background:#d9c68b;color:#172b21}.side-content{overflow:auto;flex:1;padding-top:16px;scrollbar-width:thin}.side-content a{display:block;font-size:14px;line-height:1.7;text-decoration:none;padding:9px 10px;border-left:2px solid transparent}.side-content a:hover{background:#ffffff09}.side-content a[aria-current=true]{color:var(--gold);border-color:var(--gold);background:#ffffff08}.chapter-number{font:12px Georgia,serif;color:#8da396;margin-right:10px}.index-search{width:100%;min-height:42px;background:#243a2f;border:1px solid #526b5c;border-radius:6px;padding:8px 10px;color:inherit}.index-count{font-size:12px;color:var(--muted);margin:10px 0}.side-foot{font-size:13px;padding-top:16px;border-top:1px solid #415448;color:var(--muted)}
+.workspace{margin-left:268px;min-height:100vh;background:radial-gradient(ellipse at 100% 0,#7b897330,transparent 48%),linear-gradient(120deg,#203c31,#172c25 65%)}.topbar{position:sticky;top:0;z-index:10;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 32px;background:#172c25ed;backdrop-filter:blur(16px);border-bottom:1px solid #66826b44;font-size:13px;color:#c3cfbf}.top-actions{display:flex;gap:8px;align-items:center}.top-actions button{min-width:40px;padding:4px 8px}.mobile-menu{display:none}.progress{position:fixed;top:0;left:268px;height:2px;width:calc((100% - 268px)*var(--progress,0));background:var(--gold);z-index:30}.reading-shell{max-width:1000px;margin:40px auto 70px;padding:0 40px}.article{background:linear-gradient(155deg,#4d625037,#1f352b22),var(--body);border:1px solid #b4c2a333;box-shadow:0 24px 70px #0003;padding:64px clamp(22px,6vw,78px);border-radius:3px;min-height:70vh;transition:background .2s}.chapter-kicker{color:#d9c68b;font:13px/1.5 Georgia,serif;letter-spacing:.18em}.article h1{font:500 38px/1.5 'Songti SC',SimSun,serif;letter-spacing:.1em;margin:18px 0 16px}.chapter-rule{width:48px;border:0;border-top:2px solid #b9c4a3;margin:26px 0 44px}.prose{font:var(--font-size)/2.05 'Noto Serif CJK SC','Songti SC','SimSun',serif;overflow-wrap:break-word;line-break:strict}.paragraph-break{display:block;content:'';margin-bottom:1.1em}.dialogue{font-family:'Kaiti SC',KaiTi,'STKaiti','Noto Serif CJK SC',serif}.strong{font-weight:700}.emphasis{font-style:italic}.dropcap{float:left;font-size:3.4em;line-height:1;padding:8px 8px 0 0;font-weight:500}.dropcap .strong{font-weight:500}.entity-link{color:#f4df9f;text-decoration:underline;text-decoration-color:#d9c68b88;text-decoration-thickness:1px;border-radius:2px}.entity-link:hover{background:#d9c68b20}.index-ref{font-family:system-ui,sans-serif;font-size:11px;white-space:nowrap;color:var(--gold);margin:0 3px;text-decoration:none}.index-ref sup{border:1px solid #d9c68b66;border-radius:3px;padding:1px 3px}.display-math{display:block;overflow-x:auto;overflow-y:hidden;padding:12px 2px;margin:18px 0;font-size:.91em}.inline-math{font-size:.95em}.katex-display{margin:.25em 0!important}.katex-display>.katex{white-space:nowrap}.math-source{display:block;font-family:monospace;font-size:14px;white-space:pre-wrap;border:1px solid #c7a66b;padding:12px}.theorem{display:block;border-left:2px solid var(--gold);padding:12px 20px;margin:24px 0;background:#00000012}.theorem>strong{display:block}.env-center{display:block;text-align:center;margin:24px 0}.env-quote{display:block;padding-left:20px;border-left:1px solid #92a78b}.env-flushright{display:block;text-align:right}.note{display:block;font:14px/1.8 system-ui,sans-serif;color:#cad6bf;border-left:2px solid #9eae85;padding:10px 18px;margin:15px 0}.illustration{display:block;margin:26px 0;padding:12px;background:#18231f;border:1px solid #65755f55;border-radius:6px;overflow:auto;text-align:center}.illustration a{font:12px/1.6 system-ui,sans-serif;color:#c9d5c0}.illustration canvas,.illustration img{display:block;max-width:100%;height:auto;margin:auto}.music{display:flex;flex-wrap:wrap;align-items:center;gap:14px;background:#20372a;padding:14px;margin:16px 0;font:15px system-ui,sans-serif;border-radius:6px}.music audio{max-width:100%;height:36px}.source-note{font:13px/1.6 system-ui,sans-serif;display:inline-block;padding:5px 10px;background:#0002;border-radius:4px}.table-block{display:table;width:100%;font-size:.86em;overflow:auto}.table-row{display:table-row}.table-cell{display:table-cell;padding:8px;border-bottom:1px solid #9eae8544}.chapter-nav{display:flex;justify-content:space-between;gap:20px;margin-top:30px;font-size:14px}.chapter-nav a{max-width:48%;padding:12px 0;text-decoration:none}.chapter-nav small{display:block;color:var(--muted);margin-bottom:5px}.flash{animation:flash 2s ease-out}@keyframes flash{0%,30%{background:#cda74760;box-shadow:0 0 0 5px #cda74725}100%{background:transparent}}[id]{scroll-margin-top:110px}
+.article[data-theme=night]{--body:#181e1c;background:radial-gradient(ellipse at top right,#41473233,transparent 45%),var(--body)}.article[data-theme=paper]{--body:#e8ecdf;--ink:#223329;color:var(--ink);background:var(--body)}.article[data-theme=paper] .entity-link,.article[data-theme=paper] .index-ref{color:#6d5414}.article[data-theme=paper] .chapter-kicker{color:#6d5414}.article[data-theme=paper] .note{color:#46583f}
+dialog{position:fixed;inset:0 0 0 auto;margin:0;width:420px;max-width:100vw;height:100dvh;max-height:100dvh;border:0;border-left:1px solid #7e9474;background:#f0f0e5;color:#24342a;padding:28px;box-shadow:-20px 0 70px #0005}dialog::backdrop{background:#06100a66}dialog button{border-color:#78866e}dialog header{display:flex;align-items:center;justify-content:space-between;font-size:13px;color:#53634d}dialog h2{font:500 25px/1.7 'Songti SC',SimSun,serif;overflow-wrap:anywhere;margin:30px 0 12px}dialog .katex{font-size:1em}dialog p{font-size:14px;color:#62735a}.occurrence-list a{display:block;padding:16px 0;border-bottom:1px solid #cbd2bd;text-decoration:none;font-size:15px}.related-title{font-size:14px;margin-top:28px}.related-links a{display:block;font-size:14px;margin:12px 0;color:#4f623f}.related-links .katex{font-size:1em}.loading{padding:40px 0;color:var(--muted)}.sidebar .katex{font-size:.94em}
+@media(min-width:1600px){.reading-shell{max-width:1120px}.article{padding-inline:100px}}@media(max-width:900px){.sidebar{width:235px;padding:22px 15px}.workspace{margin-left:235px}.progress{left:235px;width:calc((100% - 235px)*var(--progress,0))}.reading-shell{padding:0 18px;margin:24px auto}.article{padding:35px 25px}.topbar{padding:12px 18px}.prose{font-size:19px}.article h1{font-size:30px}}@media(max-width:680px){.sidebar{transform:translateX(-100%);width:min(85vw,300px);box-shadow:20px 0 80px #0006}.sidebar.open{transform:translateX(0)}.workspace{margin-left:0}.mobile-menu{display:block}.topbar{padding:10px 12px}.topbar .current-title{max-width:38vw;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.progress{left:0;width:calc(100% * var(--progress,0))}.reading-shell{padding:0 10px;margin:12px auto 35px}.article{padding:30px 20px}.article h1{font-size:29px}.prose{font-size:var(--font-size);line-height:2}.top-actions a{display:none}.chapter-rule{margin-bottom:30px}.display-math{font-size:.82em}.chapter-nav{padding:0 12px}.side-close{display:block!important}}@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}@media print{.sidebar,.topbar,.progress,.chapter-nav,dialog{display:none}.workspace{margin:0;background:white}.reading-shell{max-width:none;margin:0;padding:0}.article{background:white!important;color:black!important;border:0;box-shadow:none;padding:0}.entity-link,.index-ref{color:black}.prose{font-size:12pt}}
+/* Chapter paper follows the source color commands; decorative layers stay outside it. */
+.article[data-theme]{background:var(--chapter-bg,#7c8e7a)!important;color:var(--chapter-ink,#fff)!important}
+.article .chapter-kicker,.article[data-theme] .entity-link,.article[data-theme] .index-ref,.article[data-theme] .note{color:inherit}
+.article .chapter-rule{border-color:currentColor;opacity:.6}
+.entity-link{text-decoration-color:currentColor;text-decoration-style:dotted;text-decoration-thickness:1px}
+.index-ref sup{border-color:currentColor}
+.source-page{display:block}.inset-page{padding:24px;margin:24px -12px;border-radius:2px}.source-ink{color:inherit}
+.article .note{background:#00000008}.article .theorem{background:transparent;border-left-color:currentColor}
+.sidebar:not(.open) .side-close{visibility:hidden}
+@media(max-width:680px){.sidebar:not(.open){visibility:hidden}.sidebar.open{visibility:visible}}
+/* Fixed black navigation; every part of the reading surface follows source-derived RGB. */
+body{background:var(--chapter-bg,#56873e)}
+.sidebar{background:#000;border-right-color:#282828}
+.sidebar .index-search{background:#111;border-color:#444}
+.sidebar .side-tabs,.sidebar .side-foot{border-color:#333}
+.sidebar .side-tabs button[aria-pressed=true]{background:#252525;color:#f1e1ac}
+.sidebar .side-content a[aria-current=true]{background:#171717}
+.workspace{background:var(--chapter-bg,#56873e);color:var(--chapter-ink,#fff)}
+.topbar{background:color-mix(in srgb,var(--chapter-bg,#56873e) 94%,black);color:var(--chapter-ink,#fff);border-bottom-color:color-mix(in srgb,var(--chapter-ink,#fff) 20%,transparent)}
+.topbar button{border-color:currentColor}
+.article{box-shadow:none;border-color:color-mix(in srgb,var(--chapter-ink,#fff) 18%,transparent)}
+.chapter-nav small{color:inherit;opacity:.7}
+.music{background:#000;color:#fff}.note,.source-note{color:inherit}
+#index-dialog{background:#080808;color:#f0f0e8;border-color:#333}
+#index-dialog header,#index-dialog p{color:#babbb3}
+#index-dialog .occurrence-list a{border-color:#333}
+#index-dialog .related-links a{color:#e3d4a6}
+.score-inline{display:inline-flex;vertical-align:middle;max-width:100%;overflow-x:auto;line-height:1;margin:.4em .2em;padding:4px 0}
+.score-inline img{display:block;height:4.4em;width:auto;max-width:none}
+.score-display{display:block;line-height:1;margin:30px auto;padding:12px 0;text-align:center;overflow:auto}
+.score-display img{display:block;max-width:100%;width:650px;height:auto;margin:auto}
+/* Source-derived paper; surrounding area mixes 28% black. */
+body,.workspace{background:color-mix(in srgb,var(--chapter-bg,#7f8f7c) 72%,#000)}
+.topbar{background:color-mix(in srgb,var(--chapter-bg,#7f8f7c) 68%,#000)}
+.ornament-group{display:flex;justify-content:space-around;align-items:center;gap:20px;margin:36px 0}.ornament-group .illustration{width:20%;background:none;border:none;padding:0}.ornament-group .illustration a{display:none}.ornament-group img{max-height:80px;width:auto}
+
+/* Display scores follow the full prose width at every viewport size. */
+.score-display{margin:.65em 0;padding:0;text-align:left;text-indent:0;background:transparent;border:0}
+.score-display img{display:block;width:100%;max-width:100%;height:auto;margin:0}
+.svg-illustration{background:transparent;border:0;border-radius:0;padding:0;margin:1em 0;text-indent:0}
+.svg-illustration>a{display:none}
+
+/* Indent only the first visual line of each prose paragraph. */
+.prose,.source-page{text-indent:2em}
+.paragraph-break{display:block;height:0;margin-bottom:1.1em}
+.paragraph-indent{display:inline-block;width:2em;height:0;vertical-align:baseline}
+.dropcap{float:none;font-size:1em;line-height:inherit;padding:0}
+.display-math,.theorem,.note,.music,.illustration,.score-inline,.score-display,.ornament-group,.table-block,.env-center,.env-flushright{text-indent:0}
+
+/* PDF-derived music scores fill the prose; small ornaments retain intrinsic size. */
+.svg-illustration[data-source-pdf="Allegro.pdf"] img,.svg-illustration[data-source-pdf="Adagio.pdf"] img,.svg-illustration[data-source-pdf="Rondo.pdf"] img,.svg-illustration[data-source-pdf="Motive-A.pdf"] img,.svg-illustration[data-source-pdf="Motive-B.pdf"] img,.svg-illustration[data-source-pdf="Motive-C.pdf"] img,.svg-illustration[data-source-pdf="weber_all.pdf"] img,.svg-illustration[data-source-pdf="quartet1_white.pdf"] img,.svg-illustration[data-source-pdf="quartet2.pdf"] img,.svg-illustration[data-source-pdf="weber3_fixed_v3.pdf"] img{display:block;width:100%;max-width:100%;height:auto}
+
+/* Source-specific figure sizing requested by the author. */
+.svg-illustration[data-source-pdf="plot.pdf"] img{width:420px;max-width:100%;height:auto}
+.article[data-chapter="ch-a004b7c671e3"] .svg-illustration[data-source-pdf="trebleclef.preview.pdf"] img{width:100%;max-width:100%;height:auto}
+/* Three doves retain main1.tex node positions (-2,1), (5.5,-1.9), (7,.5). */
+.article[data-chapter="ch-657694f3803a"] .ornament-group{position:relative;display:block;aspect-ratio:10.343 / 4;width:100%;margin:2em 0;overflow:visible}
+.article[data-chapter="ch-657694f3803a"] .ornament-group .illustration{position:absolute;width:13%;margin:0;transform:translate(-50%,-50%)}
+.article[data-chapter="ch-657694f3803a"] .ornament-group .illustration:nth-child(1){left:6.5%;top:13.75%}
+.article[data-chapter="ch-657694f3803a"] .ornament-group .illustration:nth-child(2){left:79%;top:86.25%}
+.article[data-chapter="ch-657694f3803a"] .ornament-group .illustration:nth-child(3){left:93.5%;top:26.25%}
+.article[data-chapter="ch-657694f3803a"] .ornament-group img{width:100%;height:auto;max-height:none}
+/* Fit long display equations without dropping either edge; natural size remains available. */
+.display-math{max-width:100%;text-indent:0}
+.math-fit-content{display:inline-block;width:max-content;max-width:none;vertical-align:top;text-indent:0}
+.math-fit-content .katex-display{width:max-content;max-width:none;text-align:left}
+.math-expand{display:block;font:12px/1.5 system-ui,sans-serif;color:inherit;border-color:currentColor;min-height:30px;padding:3px 9px;margin:-10px 0 16px auto;text-indent:0}
+.bibliography-heading{display:block;font-size:1.25em;font-weight:600;margin:1.5em 0 .7em;text-indent:0}
+
+/* Center every display equation after fitting it to the reading column. */
+.display-math{text-align:center}
+.math-fit-content .katex-display{text-align:center}
+.display-math[data-expanded="true"]{text-align:left}
